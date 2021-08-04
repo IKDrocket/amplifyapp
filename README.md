@@ -1,3 +1,6 @@
+# AWS Amplify Tutorial App
+https://amplifytest.ikdrocket.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
